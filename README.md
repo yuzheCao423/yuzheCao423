@@ -1,5 +1,5 @@
-## 
-Hi, I'm Yuzhe Cao. I am a Ph.D. student in **Control Science and Engineering** at Huazhong University of Science and Technology (HUST), advised by [Associate Professor Renzhi Lu](https://scholar.google.com/citations?user=V5MSRhYAAAAJ&hl=en). I started my doctoral studies in 2026 and expect to graduate in 2030.
+## Introducing Myself
+Hi, I'm Yuzhe Cao. I am a Ph.D. student in **Control Science and Engineering** at Huazhong University of Science and Technology (HUST), advised by Associate Professor Renzhi Lu. I started my doctoral studies in 2026 and expect to graduate in 2030.
 
 My research interests include **diffusion models**, **time series analysis**, and **reinforcement learning**.
 
